@@ -6,4 +6,4 @@
 
 Interactive leaflet map showing fire frequency in the Chapada dos Veadeiros National Park (Brazil, GO) from 1985 to 2018.
 
-Sample plots in gallery forests, dry forests and savannas are shown.
+Sample plots in gallery forests, dry forests and savannas used in the study _Vegetation-rainfall coupling as a large-scale indicator of ecosystem distributions in a heterogeneous landscape_ are shown.
